@@ -7,4 +7,9 @@
 - green
 - blue
 
+1. Cyan
+2. Magenta
+3. Yellow
+
+- [RIT](https://www.rit.edu/)
 *Italictext*
